@@ -110,9 +110,17 @@ Code:
 
 ### 46. Media Player
 
+## Table
+
+| Name |Difficulty | Time | Popular | Description |
+|------|-----------|------|---------|-------------|
+|      |     ★     |   ★  |    ★★★  |             |
+| [CD Library](./cd_library) |     ★     |   ★  |    ★★  | App that creates a single model |
+
 ## References
 
 - [Pythonista Planet](https://pythonistaplanet.com/django-project-ideas/)
 - [Data Flair Training](https://data--flair-training.cdn.ampproject.org/v/s/data-flair.training/blogs/django-project-ideas/amp/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1#aoh=15824939952732&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdata-flair.training%2Fblogs%2Fdjango-project-ideas%2F)
 - [Anuragrana](https://dev.to/anuragrana/25-python-django-project-idea-for-beginners-3dk)
 - [excid3](http://excid3.com/blog/10-ideas-for-beginner-web-developers/)
+- [Django Projects Cookbook](http://books.agiliq.com/projects/djenofdjango/en/latest/index.html)
