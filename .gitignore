@@ -1,5 +1,7 @@
 # VScode
 .vscode
 
-# PyCache
+# Personal Folders
 **/__pycache__/
+**/migrations/
+**/db.sqlite3

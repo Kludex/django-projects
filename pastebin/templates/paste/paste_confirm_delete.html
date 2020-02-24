@@ -1,0 +1,7 @@
+<h1>
+    Really delete paste {{ object }}?
+</h1>
+<form action="{% url 'paste_delete' object.id %}" method="POST">
+    {% csrf_token %}
+    <input type="submit" value="Delete">
+</form>

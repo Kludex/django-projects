@@ -112,10 +112,11 @@ Code:
 
 ## Table
 
-| Name |Difficulty | Time | Popular | Description |
-|------|-----------|------|---------|-------------|
-|      |     ★     |   ★  |    ★★★  |             |
-| [CD Library](./cd_library) |     ★     |   ★  |    ★★  | App that creates a single model |
+|             Name              | Difficulty | Time | Popular | Description |
+|-------------------------------|------------|------|---------|-------------|
+|                               |     ★      |   ★  |    ★★★  |             |
+| [Simple Pastebin](./pastebin) |     ★      |   ★  |    ★★   | Creates a simple [pastebin](https://pastebin.com/) with some manage django commands |
+| [CD Library](./cd_library)    |     ★      |   ★  |    ★★   | App that creates a single model |
 
 ## References
 

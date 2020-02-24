@@ -1,0 +1,51 @@
+{% if messages %}
+    <div class="messages">
+        <ul>
+        {% for message in messages %}
+            <li class="{{ message.tag }}">
+                {{ message }}
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+{% endif %}
+
+<h1>Paste details: </h1>
+<p>
+    <div>
+        <label>ID</label>
+        <span>{{ object.id }}</span>
+    </div>
+    <div>
+        <label>ID</label>
+        <span>{{ object.id }}</span>
+    </div>
+    <div>
+        <label>Name</label>
+        <span>{{ object.name }}</span>
+    </div>
+    <div>
+        <label>Text</label>
+        <textarea rows="10" cols="50" OnClick="this.select();" readonly="true">{{ object.text }}</textarea>
+    </div>
+    <div>
+        <label>Created</label>
+        <span>{{ object.created }}</span>
+    </div>
+    <div>
+        <label>Modified</label>
+        <span>{{ object.updated }}</span>
+    </div>
+</p>
+
+<h2>Actions</h2>
+    <ul>
+        <li>
+            <a href="{% url 'paste_edit' object.id %}">Edit this paste</a>
+        </li>
+        <li>
+            <a href="{% url 'paste_delete' object.id %}">Delete this paste</a>
+        </li>
+    </ul>
+
+<a href="{% url 'paste_list' %}">View All</a>
