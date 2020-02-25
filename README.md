@@ -103,7 +103,7 @@ projects with their code.
 |                               |     ★      |   ★  |    ★★★  |                 |
 | [CD Library](./cd_library)    |     ★      |   ★  |    ★★   | [Django Projects Cookbook - Chapter 2](http://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html) |
 | [Simple Pastebin](./pastebin) |     ★      |   ★  |    ★★   | [Django Projects Cookbook - Chapter 3](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter3.html) |
-| [Blog](./blog)                |     ★      |   ★  |    ★★★  |                 |
+| [Blog](./blog)                |     ★      |   ★  |    ★★★  | [Django Projects Cookbook - Chapter 4](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter4.html#views) |
 | [To-do App](./todo)           |     ★      |   ★★ |    ★★★  |                 |
 
 ## References
