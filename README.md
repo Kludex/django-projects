@@ -4,20 +4,6 @@ When people start learning a new technology, some times is difficult to find a
 good source of challenges. For that reason I have created a list of django
 projects with their code.
 
-### 1. Simple Blog
-
-|Difficulty | Time | Popular |
-|-----------|------|---------|
-|     ★     |   ★  |    ★★★  |
-
-Code:
-
-### 2. To-Do App
-
-|Difficulty | Time | Popular |
-|-----------|------|---------|
-|     ★     |   ★  |    ★★★  |
-
 ### 3. Hacker News Clone App
 
 |Difficulty | Time | Popular |
@@ -112,11 +98,13 @@ Code:
 
 ## Table
 
-|             Name              | Difficulty | Time | Popular | Description |
-|-------------------------------|------------|------|---------|-------------|
-|                               |     ★      |   ★  |    ★★★  |             |
-| [Simple Pastebin](./pastebin) |     ★      |   ★  |    ★★   | Creates a simple [pastebin](https://pastebin.com/) with some manage django commands |
-| [CD Library](./cd_library)    |     ★      |   ★  |    ★★   | App that creates a single model |
+|             Name              | Difficulty | Time | Popular |   Tutorial Link |
+|-------------------------------|------------|------|---------|-----------------|
+|                               |     ★      |   ★  |    ★★★  |                 |
+| [CD Library](./cd_library)    |     ★      |   ★  |    ★★   | [Django Projects Cookbook - Chapter 2](http://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html) |
+| [Simple Pastebin](./pastebin) |     ★      |   ★  |    ★★   | [Django Projects Cookbook - Chapter 3](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter3.html) |
+| [Blog](./blog)                |     ★      |   ★  |    ★★★  |                 |
+| [To-do App](./todo)           |     ★      |   ★★ |    ★★★  |                 |
 
 ## References
 
