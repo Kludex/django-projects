@@ -6,10 +6,6 @@ projects with their code.
 
 ### 3. Hacker News Clone App
 
-|Difficulty | Time | Popular |
-|-----------|------|---------|
-|     ★     |   ★  |    ★    |
-
 ### 4. Login System
 
 ### 5. Portfolio of Projects
@@ -96,9 +92,9 @@ projects with their code.
 
 ### 46. Media Player
 
-## Table
+## Projects
 
-|             Name              | Difficulty | Time | Popular |   Tutorial Link |
+|           Project             | Difficulty | Time | Popular |   Tutorial Link |
 |-------------------------------|------------|------|---------|-----------------|
 |                               |     ★      |   ★  |    ★★★  |                 |
 | [CD Library](./cd_library)    |     ★      |   ★  |    ★★   | [Django Projects Cookbook - Chapter 2](http://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html) |
@@ -106,10 +102,21 @@ projects with their code.
 | [Blog](./blog)                |     ★      |  ★   |    ★★★  | [Django Projects Cookbook - Chapter 4](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter4.html#views) |
 | [Quora](./quora)              |     ★      |  ★★  |    ★    | [Django Projects Cookbook - Chapter 6](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter6.html) |
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to
+discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
 ## References
 
-- [Pythonista Planet](https://pythonistaplanet.com/django-project-ideas/)
-- [Data Flair Training](https://data--flair-training.cdn.ampproject.org/v/s/data-flair.training/blogs/django-project-ideas/amp/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1#aoh=15824939952732&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdata-flair.training%2Fblogs%2Fdjango-project-ideas%2F)
-- [Anuragrana](https://dev.to/anuragrana/25-python-django-project-idea-for-beginners-3dk)
-- [excid3](http://excid3.com/blog/10-ideas-for-beginner-web-developers/)
+- [12 Django Project Ideas for Beginners](https://pythonistaplanet.com/django-project-ideas/)
+- [Top 27 Python Django Project Ideas – Master Web Development with Python](https://data--flair-training.cdn.ampproject.org/v/s/data-flair.training/blogs/django-project-ideas/amp/?usqp=mq331AQFKAGwASA%3D&amp_js_v=0.1#aoh=15824939952732&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fdata-flair.training%2Fblogs%2Fdjango-project-ideas%2F)
+- [25+ Python Django Project Idea for beginners](https://dev.to/anuragrana/25-python-django-project-idea-for-beginners-3dk)
+- [10 Ideas for Beginner Web Developers](http://excid3.com/blog/10-ideas-for-beginner-web-developers/)
 - [Django Projects Cookbook](http://books.agiliq.com/projects/djenofdjango/en/latest/index.html)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
