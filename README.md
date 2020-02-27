@@ -65,6 +65,7 @@
 | [Blog](./blog)                |     ★      |  ★   |    ★★★  | [Django Projects Cookbook - Chapter 4](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter4.html#views) |
 | [Quora](./quora)              |     ★      |  ★★  |    ★    | [Django Projects Cookbook - Chapter 6](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter6.html) |
 | [To-do App](./todo)           |     ★      |  ★   |    ★★★  | [Making a To-Do App with Django](https://www.youtube.com/watch?v=ovql0Ui3n_I) |
+| [Login Page](./login_system)  |     ★      |  ★   |    ★★★  | [How to Build a Functioning Login Page in ONE Video!](https://www.youtube.com/watch?v=p_n7g6tVloU) |
 
 ## Contributing
 
