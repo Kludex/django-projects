@@ -1,0 +1,20 @@
+<h1>To-Do List</h1>
+<ul>
+    {% for note in notes %}
+        <li>{{ note.text }}
+            <form action="{% url 'note-delete' note.id %}" method="POST" 
+                  style="display: inline;">
+                {% csrf_token %}
+                <input type="submit" name="delete" value="Delete">
+            </form>
+        </li>
+    {% empty %}
+        No notes yet.
+    {% endfor %}
+</ul>
+
+<form action="" method="POST">
+    {% csrf_token %}
+    <input type="text" name="text">
+    <input type="submit" name="add" value="Add">
+</form>

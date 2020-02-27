@@ -57,17 +57,14 @@
 ### 45. Send SMS System
 ### 46. Media Player -->
 
-<div align="center">
-
 |           Project             | Difficulty | Time | Popular |   Tutorial Link |
 |-------------------------------|------------|------|---------|-----------------|
-|                               |     ★      |   ★  |    ★★★  |                 |
-| [CD Library](./cd_library)    |     ★      |   ★  |    ★★   | [Django Projects Cookbook - Chapter 2](http://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html) |
+|                               |     ★      |  ★   |    ★★★  |                 |
+| [CD Library](./cd_library)    |     ★      |  ★   |    ★★   | [Django Projects Cookbook - Chapter 2](http://books.agiliq.com/projects/djenofdjango/en/latest/models-tutorial.html) |
 | [Simple Pastebin](./pastebin) |     ★      |  ★   |    ★★   | [Django Projects Cookbook - Chapter 3](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter3.html) |
 | [Blog](./blog)                |     ★      |  ★   |    ★★★  | [Django Projects Cookbook - Chapter 4](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter4.html#views) |
 | [Quora](./quora)              |     ★      |  ★★  |    ★    | [Django Projects Cookbook - Chapter 6](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter6.html) |
-
-</div>
+| [To-do App](./todo)           |     ★      |  ★   |    ★★★  | [Making a To-Do App with Django](https://www.youtube.com/watch?v=ovql0Ui3n_I) |
 
 ## Contributing
 
