@@ -13,10 +13,8 @@
     </a>
 </p>
 <!-- ### 3. Hacker News Clone App
-### 4. Login System
 ### 5. Portfolio of Projects
 ### 6. Chatbot
-### 7. Weather App
 ### 8. Clothes E-commerce
 ### 9. Social Media
 ### 10. Video Subscription Website
@@ -37,7 +35,7 @@
 ### 25. Resume Builder
 ### 26. Notes App
 ### 27. Quiz App
-### 28. Interactive Web Maps
+### 28. Interactive Web Maps -> Ex.: Language over the world
 ### 29. Pinterest Clone
 ### 30. News Aggregator
 ### 31. Location-Based Web App
@@ -65,7 +63,8 @@
 | [Blog](./blog)                |     ★      |  ★   |    ★★★  | [Django Projects Cookbook - Chapter 4](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter4.html#views) |
 | [Quora](./quora)              |     ★      |  ★★  |    ★    | [Django Projects Cookbook - Chapter 6](http://books.agiliq.com/projects/djenofdjango/en/latest/chapter6.html) |
 | [To-do App](./todo)           |     ★      |  ★   |    ★★★  | [Making a To-Do App with Django](https://www.youtube.com/watch?v=ovql0Ui3n_I) |
-| [Login Page](./login_system)  |     ★      |  ★   |    ★★★  | [How to Build a Functioning Login Page in ONE Video!](https://www.youtube.com/watch?v=p_n7g6tVloU) |
+| [Login Page](./login_system)  |     ★      |  ★   |    ★★★  | [How to Build a Functioning Login Page](https://www.youtube.com/watch?v=p_n7g6tVloU) |
+| [Weather App](./weather)      |     ★      |  ★★  |    ★★★  | [Creating a Weather App in Django](https://www.youtube.com/watch?v=v7xjdXWZafY) |
 
 ## Contributing
 
