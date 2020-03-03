@@ -41,7 +41,7 @@
 | [Login Page](./login_system)  |     ★      |  ★   |    ★★★  | [How to Build a Functioning Login Page](https://www.youtube.com/watch?v=p_n7g6tVloU) |
 | [Weather App](./weather)      |     ★      |  ★★  |    ★★★  | [Creating a Weather App in Django](https://www.youtube.com/watch?v=v7xjdXWZafY) |
 | [Simple SMS App](./sms)       |     ★      |  ★   |    ★★★  | [How to Broadcast SMS Text Messages from Python 3 Django Web Apps](https://www.twilio.com/blog/broadcast-sms-text-messages-python-3-django) |
-| * [News Aggregator](./news_aggregator) |     ★      |  ★   |    ★★★  | [Learn to Build your own News Aggregator Web App](https://data-flair.training/blogs/django-project-news-aggregator-app/) |
+| [News Aggregator](./news_aggregator) |     ★      |  ★   |    ★★★  | [Learn to Build your own News Aggregator Web App](https://data-flair.training/blogs/django-project-news-aggregator-app/) |
 | * [Chatbot](./chatbot)        |     ★      |  ★   |    ★★★  | [Creating a chat application](https://www.youtube.com/watch?v=Wv5jlmJs2sU) |
 | * [Email Sender](./email_sender) |     ★      |  ★   |    ★★★  | [Sending Emails with Django](https://blog.mailtrap.io/django-send-email/) </br> [How to Send Email in a Django App](https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html) </br> [Django email tutorial](http://zetcode.com/django/email/) |
 | * [Price Tracker](./price_tracker) |     ★      |  ★   |    ★★★  | [Price Tracker Application with Django](https://dev.to/coderasha/price-tracker-application-with-django-track-discounts-889) |
