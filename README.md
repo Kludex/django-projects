@@ -40,7 +40,7 @@
 | [To-do App](./todo)           |     ★      |  ★   |    ★★★  | [Making a To-Do App with Django](https://www.youtube.com/watch?v=ovql0Ui3n_I) |
 | [Login Page](./login_system)  |     ★      |  ★   |    ★★★  | [How to Build a Functioning Login Page](https://www.youtube.com/watch?v=p_n7g6tVloU) |
 | [Weather App](./weather)      |     ★      |  ★★  |    ★★★  | [Creating a Weather App in Django](https://www.youtube.com/watch?v=v7xjdXWZafY) |
-| * [Simple SMS App](./sms)     |     ★      |  ★   |    ★★★  | [Building a Simple SMS Message Application with Twilio and Django](https://www.twilio.com/blog/2014/04/building-a-simple-sms-message-application-with-twilio-and-django-2.html) |
+| [Simple SMS App](./sms)       |     ★      |  ★   |    ★★★  | [How to Broadcast SMS Text Messages from Python 3 Django Web Apps](https://www.twilio.com/blog/broadcast-sms-text-messages-python-3-django) |
 | * [News Aggregator](./news_aggregator) |     ★      |  ★   |    ★★★  | [Learn to Build your own News Aggregator Web App](https://data-flair.training/blogs/django-project-news-aggregator-app/) |
 | * [Chatbot](./chatbot)        |     ★      |  ★   |    ★★★  | [Creating a chat application](https://www.youtube.com/watch?v=Wv5jlmJs2sU) |
 | * [Email Sender](./email_sender) |     ★      |  ★   |    ★★★  | [Sending Emails with Django](https://blog.mailtrap.io/django-send-email/) </br> [How to Send Email in a Django App](https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html) </br> [Django email tutorial](http://zetcode.com/django/email/) |
