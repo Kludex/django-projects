@@ -42,7 +42,7 @@
 | [Weather App](./weather)      |     ★      |  ★★  |    ★★★  | [Creating a Weather App in Django](https://www.youtube.com/watch?v=v7xjdXWZafY) |
 | [Simple SMS App](./sms)       |     ★      |  ★   |    ★★★  | [How to Broadcast SMS Text Messages from Python 3 Django Web Apps](https://www.twilio.com/blog/broadcast-sms-text-messages-python-3-django) |
 | [News Aggregator](./news_aggregator) |     ★      |  ★   |    ★★★  | [Learn to Build your own News Aggregator Web App](https://data-flair.training/blogs/django-project-news-aggregator-app/) |
-| * [Chatbot](./chatbot)        |     ★      |  ★   |    ★★★  | [Creating a chat application](https://www.youtube.com/watch?v=Wv5jlmJs2sU) |
+| * [Chatbot](./chatbot)        |     ★      |  ★   |    ★★★  | [Creating a chat application](https://channels.readthedocs.io/en/latest/tutorial/) |
 | * [Email Sender](./email_sender) |     ★      |  ★   |    ★★★  | [Sending Emails with Django](https://blog.mailtrap.io/django-send-email/) </br> [How to Send Email in a Django App](https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html) </br> [Django email tutorial](http://zetcode.com/django/email/) |
 | * [Price Tracker](./price_tracker) |     ★      |  ★   |    ★★★  | [Price Tracker Application with Django](https://dev.to/coderasha/price-tracker-application-with-django-track-discounts-889) |
 | * [Real Time Chat](./chat) |     ★      |  ★   |    ★★★  | [A Simple Real Time Chat with Django](https://revs.runtime-revolution.com/a-simple-real-time-chat-with-django-channels-and-react-b73edc3a79f2) </br> [How to Build Chat into Django App](https://www.twilio.com/blog/2018/05/build-chat-python-django-applications-programmable-chat.html) </br> [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django) |
@@ -73,6 +73,10 @@
 | * [Instagram](./instagram) |     ★      |  ★   |    ★★★  | [Make your Own Instagram](https://www.youtube.com/watch?v=ndGw375nTqI) |
 | * [Quiz App](./quiz) |     ★      |  ★   |    ★★★  | [Model Setup for a Quiz Application with Django Rest Framework](https://medium.com/codetensor/create-a-quiz-application-with-django-rest-framework-react-redux-part-one-f0fcae5103fd) |
 
+
+## Todo
+
+- [] Tests for each project
 
 ## Contributing
 
